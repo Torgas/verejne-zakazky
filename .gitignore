@@ -1,3 +1,4 @@
 .DS_Store
 Transformace dat/cache/
 Transformace dat/src/authToken.txt
+.idea/
